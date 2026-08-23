@@ -13,3 +13,6 @@ through `--policy-revision`.
 See the Once
 [protected-policy guide](https://github.com/closure-labs/once/blob/main/docs/protected-policy.md)
 for the publication and update procedure.
+
+Repository ownership and the checked-in ruleset are documented in
+[`GOVERNANCE.md`](GOVERNANCE.md).
